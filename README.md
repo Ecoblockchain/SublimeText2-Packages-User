@@ -160,7 +160,7 @@ These are our overrides to the WordPress guide:
     
    **Also Yes**
 
-        if ( ! isset( $var ) ) {
+        if ( !isset( $var ) ) {
             $var = some_function();
         }
     
