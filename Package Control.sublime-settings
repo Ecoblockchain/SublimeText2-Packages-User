@@ -14,7 +14,6 @@
 	],
 	"repositories":
 	[
-		"https://sublime.wbond.net/alpha/packages.json\nhttps://sublime.wbond.net/alpha/packages.json",
 		"https://sublime.wbond.net/alpha/packages.json"
 	]
 }
